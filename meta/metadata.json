@@ -1,0 +1,21 @@
+{
+    "name": "weather_data_twl-1",
+    "title": "WEATHER_DATA_TWL-1",
+    "notes": "ข้อมูลดัชนีคุณภาพอากาศของประเทศไทย",
+    "data_type": "ข้อมูลสถิติ",
+    "owner_org": "tu", 
+    "data_source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlEs3FxFPwm-dpvU1YdsfRgsbfT9WdiXJHZm9kJgGTziPnk-y3TWtftbSbxj6Fe_g0NxYgqyVHTVU5/pubhtml?gid=1397577608&amp;single=true&amp;widget=true&amp;headers=false",
+    "maintainer": "twl-1",
+    "update_frequency_unit": "ชั่วโมง",
+    "data_format": [
+      "CSV"
+    ],
+    "maintainer_email": "twl1@gmail.com",
+    "objective": [
+      "ยุทธศาสตร์ชาติ",
+      "แผนพัฒนาเศรษฐกิจและสังคมแห่งชาติ"
+    ],
+    "data_category": "ข้อมูลสาธารณะ",
+    "geo_coverage": "ประเทศ",
+    "license_id": "License not specified"
+}
